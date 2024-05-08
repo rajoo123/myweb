@@ -404,7 +404,7 @@ nav ul li a:hover::after{
         width: 200px;
         height: 100vh;
         padding-top: 50px;
-        /* z-index: 2; */
+        z-index: 2;
         transition: 0.5s;
 
     }
